@@ -29,6 +29,7 @@ Kerbal Civilization Project (KCP for short) is a mod that adds cities, roads, bu
 - Parking Lots
 - Python Script (Downloads certain tiles or whole areas so you can see them in-game, quickly)
 - Easter eggs on other planets
+- LOD  to improve performance
 
 **Future Features (In order from which will come first to last):**
 - Bridges
