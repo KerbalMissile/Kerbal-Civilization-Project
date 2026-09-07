@@ -1,5 +1,9 @@
 # Kerbal Civilization Project
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/KerbalMissile/Kerbal-Civilization-Project/total?style=for-the-badge&label=Downloads)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/KerbalMissile/Kerbal-Civilization-Project/main?style=for-the-badge)
+![GitHub Release](https://img.shields.io/github/v/release/KerbalMissile/Kerbal-Civilization-Project?include_prereleases&style=for-the-badge)
+
 ---
 
 **Description:**
