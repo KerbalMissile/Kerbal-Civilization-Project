@@ -8,7 +8,7 @@
 
 **Description:**
 
-Kerbal Civilization Project (KCP for short) is a mod that adds cities, roads, buildings to Sol all accurately placed as they appear in real life. To do so, it takes data from OpenStreetMaps (OSM) which gives info on the height, location, size, type, and even colour of the buildings. From there KCP draws those buildings in 3D, in real-time as you go.
+Kerbal Civilization Project (KCP for short) is a mod that adds cities, roads, buildings to Sol all accurately placed as they appear in real life. To do so, it takes data from OpenStreetMaps (OSM) which gives info on the height, location, size, type, and even colour of the buildings. From there KCP draws those buildings in 3D, in real-time, as you go.
 
 ---
 
