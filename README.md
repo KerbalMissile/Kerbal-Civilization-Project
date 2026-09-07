@@ -43,6 +43,7 @@ Kerbal Civilization Project (KCP for short) is a mod that adds cities, roads, bu
 - More landmarks
 - Live rocket launches (As a rocket launch happens IRL, you can see it in game)
 - Regular Kerbol system support (Kerbin)
+- Collisions
 
 ---
 
