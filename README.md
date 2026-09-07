@@ -67,4 +67,5 @@ GPL-v3.0
 **Credits:**
 
 deltaaero had the idea first for a mod that takes OSM data and puts it in game, he is also working on a mod that does the same, except I am going in a different direction than him.
+
 In short: The OSM data -> KSP buildings is not my idea
