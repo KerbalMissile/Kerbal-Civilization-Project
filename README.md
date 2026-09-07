@@ -1,4 +1,4 @@
-# Kerbal-Civilization-Project
+# Kerbal Civilization Project
 
 ---
 
