@@ -26,6 +26,7 @@ Kerbal Civilization Project (KCP for short) is a mod that adds cities, roads, bu
   - Christ the Redeemer
   - Colosseum
 - Roads (Ex. Highways, etc.)
+- Parking Lots
 - Python Script (Downloads certain tiles or whole areas so you can see them in-game, quickly)
 
 **Future Features (In order from which will come first to last):**
