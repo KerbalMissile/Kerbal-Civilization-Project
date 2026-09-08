@@ -36,7 +36,7 @@ Kerbal Civilization Project (KCP for short) is a mod that adds cities, roads, bu
 - LOD  to improve performance
 - Realscale & Quarterscale support (Quarter is un-tested, should work though)
 
-**Future Features (In order from which will come first to last):**
+**Future Features:**
 - Bridges
 - City Lights
 - Better building textures & models
