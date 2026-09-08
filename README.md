@@ -68,6 +68,11 @@ Q. Does KCP use Scatterer / Parallax / Kerbal Konstructs?
 
 A. No, it uses its own system to accurately draw and place buildings, roads, and any other structures. Those systems use 3D models, KCP draws it in real time.
 
+
+Q. How big is each tile?
+
+A. Each tile is 2km x 2km
+
 ---
 
 **Contributing:**
