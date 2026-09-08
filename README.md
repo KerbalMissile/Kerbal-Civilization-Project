@@ -55,12 +55,17 @@ Kerbal Civilization Project (KCP for short) is a mod that adds cities, roads, bu
 **FAQ:**
 
 Q. Does KCP work with Mirage?
+
 A. Yes it does!
 
+
 Q. How does it work?
+
 A. It takes building & street info (height, placement, size, etc.) from OpenStreetMaps then draws the shapes in KSP.
 
+
 Q. Does KCP use Scatterer / Parallax / Kerbal Konstructs?
+
 A. No, it uses its own system to accurately draw and place buildings, roads, and any other structures. Those systems use 3D models, KCP draws it in real time.
 
 ---
