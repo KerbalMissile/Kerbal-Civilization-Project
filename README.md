@@ -34,7 +34,8 @@ Kerbal Civilization Project (KCP for short) is a mod that adds cities, roads, bu
 - Python Script (Downloads certain tiles or whole areas so you can see them in-game, quickly)
 - Easter eggs on other planets
 - LOD  to improve performance
-- Realscale & Quarterscale support (Quarter is un-tested, should work though)
+- Realscale & Quarterscale support
+- Collisions
 
 **Future Features:**
 - Bridges
@@ -48,7 +49,6 @@ Kerbal Civilization Project (KCP for short) is a mod that adds cities, roads, bu
 - More landmarks
 - Live rocket launches (As a rocket launch happens IRL, you can see it in game)
 - Regular Kerbol system support (Kerbin)
-- Collisions
 
 ---
 
