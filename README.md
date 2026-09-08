@@ -12,6 +12,13 @@ Kerbal Civilization Project (KCP for short) is a mod that adds cities, roads, bu
 
 ---
 
+**Installation:**
+
+1. Available on CKAN (Search KCP or Kerbal Civilization Project to find)
+2. Install the latest release from the [releases section](https://github.com/KerbalMissile/Kerbal-Civilization-Project/releases) or [SpaceDock](https://spacedock.info/mod/4544/Kerbal%20Civilization%20Project%20(KCP)), then merge the GameData's and you're good to go.
+
+---
+
 **Features:**
 
 - Streaming (Streams tiles as you go)
