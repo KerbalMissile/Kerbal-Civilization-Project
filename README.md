@@ -106,7 +106,7 @@ Calgary:
 
 **License:**
 
-GPL-v3.0
+Apache-2.0
 
 ---
 
