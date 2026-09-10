@@ -1,4 +1,4 @@
-# Kerbal Civilization Project
+# Kerbal Civilization Project (KCP)
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/KerbalMissile/Kerbal-Civilization-Project/total?style=for-the-badge&label=Downloads)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/KerbalMissile/Kerbal-Civilization-Project/main?style=for-the-badge)
