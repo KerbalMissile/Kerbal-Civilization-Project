@@ -45,11 +45,14 @@ The goal / philosophy behind KCP is to make it feel like you're in a real, live 
 - LOD  to improve performance
 - Realscale & Quarterscale support
 - Collisions
+- City Lights
+- Better building models
+- Building shadows
+- Default Sol city lights fade in / out
 
 **Future Features:**
 - Bridges
-- City Lights
-- Better building textures & models
+- Better building models
 - Traffic:
   - Cars
   - Boats
