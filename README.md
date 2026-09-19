@@ -51,6 +51,7 @@ The goal / philosophy behind KCP is to make it feel like you're in a real, live 
 - Default Sol city lights fade in / out
 
 **Future Features:**
+
 - Bridges
 - Better building models
 - Traffic:
@@ -85,9 +86,15 @@ Q. How big is each tile?
 
 A. Each tile is 2km x 2km
 
+
+Q. How is the performance / What are the minimum specs / etc.
+
+A. There's no minimum specs to run KCP, optimizations are constantly coming. The performance is quite good so far from what I've seen from my testing and others.
+
 ---
 
 **Contributing:**
+
 - Please report any bugs you may find (if you found them, I probably don't know about them)
 - PR's are always welcome, same with feature suggestions
 
