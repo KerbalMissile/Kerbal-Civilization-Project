@@ -93,6 +93,12 @@ A. There's no minimum specs to run KCP, optimizations are constantly coming. The
 
 ---
 
+**Known Issues:**
+
+- Launch pads / launch sites have buildings. These are the towers and surrounding buildings. The issue will be fixed in the next update.
+
+---
+
 **Contributing:**
 
 - Please report any bugs you may find (if you found them, I probably don't know about them)
